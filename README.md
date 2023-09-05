@@ -17,6 +17,11 @@ My goal is to become a full-stack Java developer. .I am interested in learning n
 - Java 👩‍💻
 - Open Source 🥷
 
+## My Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Reshmitj&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
 ## Find me around the web
 
  <a href="reshmius68@gmail.com" target="_blank">
