@@ -1,6 +1,6 @@
 # Reshmi Thumatti Jawaharlal 👩‍💻
 
-[Hello](Hello.jpeg)
+(Hello.jpeg)
 
 ## About me
 
