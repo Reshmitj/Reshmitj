@@ -27,7 +27,7 @@ My goal is to become a full-stack Java developer. .I am interested in learning n
 
 ## Find me around the web
 
- <a href="mailto:reshmius68@gmail.com?subject=[GitHub]%20Source%20Han%20Sans" target="_blank">
+ <a href="mailto:reshmius68@gmail.com?subject=Hello Reshmi!" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="zsk"/>
  </a>
 
