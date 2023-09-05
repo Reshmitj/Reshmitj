@@ -23,7 +23,7 @@ My goal is to become a full-stack Java developer. .I am interested in learning n
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reshmitj)]()
 
-*The data above only reflect work that has been completed and added to github.*
+<font size="2">*The data above only reflect work that has been completed and added to github.*</font>
 
 ## Find me around the web
 
