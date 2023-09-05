@@ -1,6 +1,6 @@
 # Reshmi Thumatti Jawaharlal 👩‍💻
 
-![Hello](banner.png)
+![Hello](Hello.jpeg)
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/{Reshmitj}/count.svg" />
