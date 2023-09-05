@@ -1,6 +1,6 @@
 # Reshmi Thumatti Jawaharlal 👩‍💻
 
-(https://github.com/Reshmitj/Reshmitj/blob/main/Hello.jpeg)
+[Hello] (https://github.com/Reshmitj/Reshmitj/blob/main/Hello.jpeg)
 
 ## About me
 
