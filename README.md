@@ -1,12 +1,17 @@
 # Reshmi Thumatti Jawaharlal 👩‍💻
 
+(https://github.com/Reshmitj/Reshmitj/blob/main/Hello.jpeg)
+
 ## About me
 
-Hi, my name is Reshmi; I'm pursuing a master's degree in applied computer science at Northwest Missouri State University. I have completed my Bachelor degree in Robotics and Automation Engineering from PSG College of Technology.
+Hi, my name is Reshmi; I m from Tamilnadu, India. I have completed my Bachelor degree in Robotics and Automation Engineering from PSG College of Technology. I'm pursuing a master's degree in applied computer science at Northwest Missouri State University.
 
 My goal is to become a full-stack Java developer. .I am interested in learning new languages and enhance my skills. I love to cook and eat; I play badminton; I exercise; and I love photography.
 
+## Things I am passionate about
 
+- Java 👩‍💻
+- Open Source 🥷
 
 <!--
 **Reshmitj/Reshmitj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
