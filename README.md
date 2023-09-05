@@ -1,6 +1,7 @@
 # Reshmi Thumatti Jawaharlal 👩‍💻
 
 ![Hello](banner.png)
+![](https://komarev.com/ghpvc/?username=Reshmitj)
 
 ## About me
 
