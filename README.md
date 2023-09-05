@@ -17,6 +17,17 @@ My goal is to become a full-stack Java developer. .I am interested in learning n
 - Java 👩‍💻
 - Open Source 🥷
 
+## Find me around the web
+
+ <a href="reshmius68@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="zsk"/>
+ </a>
+
+ <a href="https://www.linkedin.com/in/reshmi-thumatti-jawaharlal-89536972/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="zsk"/>
+ </a>
+
+
 <!--
 **Reshmitj/Reshmitj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
