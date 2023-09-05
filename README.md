@@ -2,6 +2,7 @@
 
 ![Hello](banner.png)
 ![](https://komarev.com/ghpvc/?username=Reshmitj)
+![Visitor Count](https://profile-counter.glitch.me/{Reshmitj}/count.svg)
 
 ## About me
 
