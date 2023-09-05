@@ -35,6 +35,11 @@ My goal is to become a full-stack Java developer. .I am interested in learning n
   <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="zsk"/>
  </a>
 
+ <a href="https://www.quora.com/profile/Reshmi-Tj" target="_blank">
+  <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white" alt="zsk"/>
+ </a>
+
+
 
 <!--
 **Reshmitj/Reshmitj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
