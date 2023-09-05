@@ -1,8 +1,10 @@
 # Reshmi Thumatti Jawaharlal 👩‍💻
 
 ![Hello](banner.png)
-![](https://komarev.com/ghpvc/?username=Reshmitj)
-![Visitor Count](https://profile-counter.glitch.me/{Reshmitj}/count.svg)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/{Reshmitj}/count.svg" />
+</p>
 
 ## About me
 
