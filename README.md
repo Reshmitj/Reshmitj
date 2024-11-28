@@ -8,9 +8,9 @@
 
 ## About me
 
-Hi, my name is Reshmi; I m from Tamilnadu, India. I have completed my Bachelor degree in Robotics and Automation Engineering from PSG College of Technology. I'm pursuing a master's degree in applied computer science at Northwest Missouri State University.
+Hi, my name is Reshmi; I m from Tamilnadu, India. I have completed my Bachelor degree in Robotics and Automation Engineering from PSG College of Technology. I'm pursuing a master's degree in Computer and Information Science at Southern Arkansas University.
 
-My goal is to become a full-stack Java developer. .I am interested in learning new languages and enhance my skills. I love to cook and eat; I play badminton; I exercise; and I love photography.
+My goal is to become a full-stack Java developer. .I am interested in learning new languages and enhance my skills. I love to cook and eat; I play Chess; I exercise; and I love photography.
 
 ## Things I am passionate about
 
@@ -18,8 +18,6 @@ My goal is to become a full-stack Java developer. .I am interested in learning n
 - Open Source 🥷
 
 ## My Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Reshmitj)]()
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reshmitj)]()
 
