@@ -19,6 +19,8 @@ My goal is to become a full-stack Java developer. .I am interested in learning n
 
 ## My Stats
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Reshmitj)]()
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reshmitj)]()
 
 <font size="1"> _The data above only reflect work that has been completed and added to github._ </font>
