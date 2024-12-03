@@ -8,9 +8,9 @@
 
 ## About me
 
-Hi, my name is Reshmi; I m from Tamilnadu, India. I have completed my Bachelor degree in Robotics and Automation Engineering from PSG College of Technology. I'm pursuing a master's degree in Computer and Information Science at Southern Arkansas University.
+Hello! My name is Reshmi, and I am from Tamilnadu, India. I completed my Bachelor's degree in Robotics and Automation Engineering at PSG College of Technology and am currently pursuing a Master's degree in Computer and Information Science at Southern Arkansas University. My professional goal is to become a full-stack Java developer. I have a strong passion for learning new languages and continuously enhancing my skills.
 
-My goal is to become a full-stack Java developer. .I am interested in learning new languages and enhance my skills. I love to cook and eat; I play Chess; I exercise; and I love photography.
+Outside of my academic and professional pursuits, I have diverse interests that keep me energized. I am an avid cook who loves to explore new recipes and flavors. Additionally, I enjoy playing chess, which sharpens my strategic thinking, and staying active through regular exercise. Photography is another passion of mine, allowing me to capture and appreciate the world's beauty through my lens.
 
 ## Development
 ### Languages
