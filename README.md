@@ -17,7 +17,7 @@ Outside of my academic and professional pursuits, I have diverse interests that 
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![npm bundle size](https://img.shields.io/bundlephobia/:format/:packageName)
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/:packageName)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/django)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
